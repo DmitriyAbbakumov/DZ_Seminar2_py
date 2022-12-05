@@ -5,7 +5,7 @@
 N = int(input("Введите число: "))
 factorial = 1
 elements = list()
-for i in range(1, N+1):
+for i in range(1, N + 1):
     factorial *= i
     elements.append(factorial)
 print(elements)
