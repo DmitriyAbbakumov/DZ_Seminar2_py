@@ -9,3 +9,4 @@ for i in range(1, N+1):
     factorial *= i
     elements.append(factorial)
 print(elements)
+
